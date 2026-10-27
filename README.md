@@ -61,15 +61,10 @@ Informatiile care nu pot fi confirmate vor fi marcate "necunoscut". Recomandaril
 
 **Exemple de fise propuse:**
 
-| Camp | Exemplul 1 | Exemplul 2 |
-|---|---|---|
-| `eticheta_dataset` | `aloevera` | `spinach` |
-| `nume_planta` | Aloe vera | Spanac |
-| `udare` | Substratul se lasa sa se usuce intre udari; udare redusa iarna | Solul se mentine umed; udare in perioadele secetoase |
-| `lumina` | Loc luminos, insorit | Umbrire usoara pe vreme calda |
-| `sol` | Substrat cu drenaj bun | Sol fertil care nu se usuca |
-| `observatii` | Protectie impotriva inghetului; excesul de apa poate afecta radacinile | Caldura si seceta pot favoriza inflorirea prematura |
-| `surse` | S1 | S2 |
+| eticheta_dataset | nume_planta | udare | lumina | sol | observatii | surse |
+|---|---|---|---|---|---|---|
+| aloevera | Aloe vera | Substratul se lasa sa se usuce intre udari; udare redusa iarna | Loc luminos, insorit | Substrat cu drenaj bun | Protectie impotriva inghetului; excesul de apa poate afecta radacinile | S1 |
+| spinach | Spanac | Solul se mentine umed; udare in perioadele secetoase | Umbrire usoara pe vreme calda | Sol fertil care nu se usuca | Caldura si seceta pot favoriza inflorirea prematura | S2 |
 
 Etichetele sunt vizibile in capturile datasetului. Recomandarile provin din ghidurile RHS, nu din Kaggle. Pentru `spinach`, exemplul foloseste informatii despre *Spinacia oleracea*; asocierea botanica va fi verificata inainte de includerea in setul final.
 
