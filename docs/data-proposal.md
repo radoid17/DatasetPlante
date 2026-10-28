@@ -1,6 +1,4 @@
 # Dataset: Fise de ingrijire pentru plante
-
-**Curs:** Ingineria algoritmilor pentru AI  
 **Echipa:** Avramescu Isaac, Poenaru Andrei, Radoi Dragos, Vasile Marina
 
 ## 1. De ce acest dataset?
